@@ -190,7 +190,7 @@ graph_ship %>% ggplot(aes("x",y=count,fill=ship)) +
 
 Result
 
-![plot1](https://user-images.githubusercontent.com/69072036/139068827-c7d82965-3cb3-41bc-80c9-70b11e9cac1b.png)
+![plot1](https://github.com/KetchupBruh/Power-BI-and-R-language/blob/main/images%20and%20dataset/plot1.png)
 
 2.กราฟที่เเสดง category ของสินค้าทั้งหมด
 ```
@@ -200,4 +200,4 @@ Cat_plot + ggtitle("Number of Category") +
 ```
 Result
 
-![plot2](https://user-images.githubusercontent.com/69072036/139069075-3db646d3-10a3-4a19-9123-0dac8b856d83.png)
+![plot2](https://github.com/KetchupBruh/Power-BI-and-R-language/blob/main/images%20and%20dataset/plot2.png)
