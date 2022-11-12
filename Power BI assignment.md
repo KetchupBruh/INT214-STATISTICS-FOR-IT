@@ -4,4 +4,5 @@
 ## Power BI
 <a href="https://github.com/KetchupBruh/INT214-STATISTICS-FOR-IT/blob/main/images%20and%20dataset/Power-BI-assignment-image.png"> Power BI link </a> </br>
 
+## Image
 ![Power-BI-assignment-image](https://github.com/KetchupBruh/INT214-STATISTICS-FOR-IT/blob/main/images%20and%20dataset/Power-BI-assignment-image.png)
