@@ -28,11 +28,11 @@ Datasets from: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
 
 ### Important Files in Repository
 - [Exploration.md](./Resources/Exploration.md) : Exploratory Data Analysis
-- [Mobiles.csv](./Mobiles.csv) : Original Dataset
-- [MobilesClean.csv](./MobilesClean.csv) : Clean Dataset
-- [MobilesCode.R](./MobilesCode.R) : R Code
-- [HypothesisTesting.md](./HypothesisTesting.md) : Hypothesis Testing 
-- [HypothesisTesting.R](./HypothesisTesting.R) : Hypothesis Testing R Code
+- [Mobiles.csv](./Resources/Mobiles.csv) : Original Dataset
+- [MobilesClean.csv](./Resources/MobilesClean.csv) : Clean Dataset
+- [MobilesCode.R](./Resources/MobilesCode.R) : R Code
+- [HypothesisTesting.md](./Resources/HypothesisTesting.md) : Hypothesis Testing 
+- [HypothesisTesting.R](./Resources/HypothesisTesting.R) : Hypothesis Testing R Code
 
 ### References
 Dataset from Kaggle https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
