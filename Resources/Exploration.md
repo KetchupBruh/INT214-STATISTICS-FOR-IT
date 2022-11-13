@@ -103,7 +103,7 @@ mobiles_app <- mobiles_app %>% mutate(currency = "THB")
 mobiles_app <- mobiles_app %>% mutate(price = price * 33.40)
 ```
 
-## Step 5: Exploratory Data Analysis
+## Step 5: Data Analysis with Descriptive Statistics
 ### 1. ประเภทของแอปพลิเคชั่นที่มีจำนวนมากที่สุด
 #### Code
 ```
