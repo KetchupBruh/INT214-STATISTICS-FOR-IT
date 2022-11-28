@@ -19,6 +19,7 @@ Datasets from: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
 ### Tools
 - [x] R Language
 - [x] R Studio Desktop
+- [x] Power BI
 
 ## Table of Contents
 1. `MIDTERM` [Exploratory Data Analysis](./Resources/Exploration.md)
